@@ -1,0 +1,1 @@
+add sites to block, restrictions, close apps, print history, lock, exit
